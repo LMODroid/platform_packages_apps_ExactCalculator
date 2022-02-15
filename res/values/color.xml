@@ -17,6 +17,10 @@
 
 <resources>
 
+    <!-- Icon -->
+    <color name="ic_fill_color">#A2FF90</color>
+    <color name="ic_launcher_calculator_background">#323232</color>
+
     <!-- Default accent color. -->
     <color name="calculator_accent_color">#167c80</color>
 
